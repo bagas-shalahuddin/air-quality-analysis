@@ -3,6 +3,9 @@
 - Email: bagassw42@gmail.com
 - ID Dicoding: bagas_shw
 
+## Deployed Link
+[Beijing Air Quality Dashboard](https://beijing-air-quality-analysis.streamlit.app/).
+
 ## Contents
 - [Project Overview](#project-overview)
 - [Structure of the Project](#structure-of-the-project)
@@ -32,7 +35,7 @@ pip install -r requirements.txt
 ```
 
 ## How to Use
-1. **Data Preparation**: The `notebook.py` file includes scripts for data cleaning and preparation.
+1. **Data Preparation**: The `notebook.ipynb` file includes scripts for data cleaning and preparation.
 2. **Data Exploration (EDA)**: Use the Python scripts provided for data analysis and exploration. Insights from EDA are vital for understanding the trends in air quality.
 3. **Data Visualization**: Execute the Streamlit dashboard for an interactive data visualization experience:
 
